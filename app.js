@@ -1,0 +1,1 @@
+confirm("you want to see this page content ?");

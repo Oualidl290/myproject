@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgb(12, 2, 35) , rgb(21, 4, 61) , rgb(28, 5, 83), rgb(41, 8, 118)) no-repeat;
+}
+h1{
+    display: flex;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 30px;
+    color: aqua;
+}
