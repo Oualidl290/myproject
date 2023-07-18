@@ -1,7 +1,7 @@
 body{
     display: flex;
     justify-content: center;
-    background: linear-gradient(rgb(12, 2, 35) , rgb(21, 4, 61) , rgb(28, 5, 83), rgb(41, 8, 118)) no-repeat;
+    background: linear-gradient(rgb(141, 127, 174) , rgb(21, 4, 61) , rgb(215, 200, 249), rgb(62, 44, 103)) no-repeat;
 }
 h1{
     display: flex;
