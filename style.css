@@ -1,4 +1,7 @@
 body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     background-color: rgba(255, 0, 0, 0.664);
 }
 h1{
@@ -6,4 +9,11 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     size: 80px;
     color: rgb(111, 213, 213);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 500px;
+    height: 200px;
 }
