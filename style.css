@@ -1,14 +1,26 @@
 body{
+<<<<<<< HEAD
     display: flex;
     flex-direction: column;
     justify-content: center;
     background-color: rgba(255, 0, 0, 0.664);
+=======
+    background-color: rgb(77, 124, 124);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    align-items: center;
+    padding: 20%;
+>>>>>>> oualid
 }
-h1{
+.N{
+    display: flex;
+    justify-content: center;
     font-size: x-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     size: 80px;
     color: rgb(111, 213, 213);
+<<<<<<< HEAD
 }
 form{
     display: flex;
@@ -16,4 +28,40 @@ form{
     justify-content: space-around;
     width: 500px;
     height: 200px;
+=======
+    background-color: rgb(255, 1, 1);
+    width: 100%;
+}
+.k {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: rgb(111, 213, 213);
+    background-color: rgb(255, 1, 1);
+    width: 100%;
+}
+.L {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: rgb(111, 213, 213);
+    background-color: rgb(255, 1, 1);
+    width: 100%;
+}
+.M {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: rgb(111, 213, 213);
+    background-color: rgb(255, 1, 1);
+    width: 100%;
+}
+@media (max-width:768px){
+>>>>>>> oualid
 }
